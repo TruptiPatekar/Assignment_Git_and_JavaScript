@@ -1,2 +1,5 @@
-# Assignment_Git_and_JavaScript
-A simple HTML and JavaScript web application. This website properly works with Google Chrome. Please explore the website with "ProRun.html"  Thanks for reading! 
+Open FunRun.html to start with project. 
+At home page, with main image there are some thumbnail images.
+Click on thumbnail images to route on respective pages.
+
+Note: Recommended browser is Google Chrome.
